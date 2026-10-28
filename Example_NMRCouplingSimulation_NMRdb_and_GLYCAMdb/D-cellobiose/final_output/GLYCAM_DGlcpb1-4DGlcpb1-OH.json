@@ -8,7 +8,8 @@
     "temperature_K": 298,
     "pH": 7.4,
     "field_MHz": 500,
-    "solvent": "D2O"
+    "solvent": "D2O",
+    "reference":"DSS"
   },
   "coupling_constant_source": {
     "method": "QM",
