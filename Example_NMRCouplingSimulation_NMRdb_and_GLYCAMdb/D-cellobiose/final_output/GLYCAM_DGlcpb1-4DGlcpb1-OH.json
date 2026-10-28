@@ -1572,323 +1572,277 @@
       "atom_id_1": 2,
       "atom_id_2": 3,
       "glycam_atom_1": "1_ROH_O1",
-      "glycam_atom_2": "2_4GB_C1",
-      "order": 1
+      "glycam_atom_2": "2_4GB_C1"
     },
     {
       "atom_id_1": 3,
       "atom_id_2": 5,
       "glycam_atom_1": "2_4GB_C1",
-      "glycam_atom_2": "2_4GB_O5",
-      "order": 1
+      "glycam_atom_2": "2_4GB_O5"
     },
     {
       "atom_id_1": 3,
       "atom_id_2": 19,
       "glycam_atom_1": "2_4GB_C1",
-      "glycam_atom_2": "2_4GB_C2",
-      "order": 1
+      "glycam_atom_2": "2_4GB_C2"
     },
     {
       "atom_id_1": 5,
       "atom_id_2": 6,
       "glycam_atom_1": "2_4GB_O5",
-      "glycam_atom_2": "2_4GB_C5",
-      "order": 1
+      "glycam_atom_2": "2_4GB_C5"
     },
     {
       "atom_id_1": 6,
       "atom_id_2": 8,
       "glycam_atom_1": "2_4GB_C5",
-      "glycam_atom_2": "2_4GB_C6",
-      "order": 1
+      "glycam_atom_2": "2_4GB_C6"
     },
     {
       "atom_id_1": 6,
       "atom_id_2": 13,
       "glycam_atom_1": "2_4GB_C5",
-      "glycam_atom_2": "2_4GB_C4",
-      "order": 1
+      "glycam_atom_2": "2_4GB_C4"
     },
     {
       "atom_id_1": 8,
       "atom_id_2": 11,
       "glycam_atom_1": "2_4GB_C6",
-      "glycam_atom_2": "2_4GB_O6",
-      "order": 1
+      "glycam_atom_2": "2_4GB_O6"
     },
     {
       "atom_id_1": 13,
       "atom_id_2": 23,
       "glycam_atom_1": "2_4GB_C4",
-      "glycam_atom_2": "2_4GB_O4",
-      "order": 1
+      "glycam_atom_2": "2_4GB_O4"
     },
     {
       "atom_id_1": 13,
       "atom_id_2": 15,
       "glycam_atom_1": "2_4GB_C4",
-      "glycam_atom_2": "2_4GB_C3",
-      "order": 1
+      "glycam_atom_2": "2_4GB_C3"
     },
     {
       "atom_id_1": 15,
       "atom_id_2": 17,
       "glycam_atom_1": "2_4GB_C3",
-      "glycam_atom_2": "2_4GB_O3",
-      "order": 1
+      "glycam_atom_2": "2_4GB_O3"
     },
     {
       "atom_id_1": 15,
       "atom_id_2": 19,
       "glycam_atom_1": "2_4GB_C3",
-      "glycam_atom_2": "2_4GB_C2",
-      "order": 1
+      "glycam_atom_2": "2_4GB_C2"
     },
     {
       "atom_id_1": 19,
       "atom_id_2": 21,
       "glycam_atom_1": "2_4GB_C2",
-      "glycam_atom_2": "2_4GB_O2",
-      "order": 1
+      "glycam_atom_2": "2_4GB_O2"
     },
     {
       "atom_id_1": 23,
       "atom_id_2": 24,
       "glycam_atom_1": "2_4GB_O4",
-      "glycam_atom_2": "3_0GB_C1",
-      "order": 1
+      "glycam_atom_2": "3_0GB_C1"
     },
     {
       "atom_id_1": 24,
       "atom_id_2": 26,
       "glycam_atom_1": "3_0GB_C1",
-      "glycam_atom_2": "3_0GB_O5",
-      "order": 1
+      "glycam_atom_2": "3_0GB_O5"
     },
     {
       "atom_id_1": 24,
       "atom_id_2": 42,
       "glycam_atom_1": "3_0GB_C1",
-      "glycam_atom_2": "3_0GB_C2",
-      "order": 1
+      "glycam_atom_2": "3_0GB_C2"
     },
     {
       "atom_id_1": 26,
       "atom_id_2": 27,
       "glycam_atom_1": "3_0GB_O5",
-      "glycam_atom_2": "3_0GB_C5",
-      "order": 1
+      "glycam_atom_2": "3_0GB_C5"
     },
     {
       "atom_id_1": 27,
       "atom_id_2": 29,
       "glycam_atom_1": "3_0GB_C5",
-      "glycam_atom_2": "3_0GB_C6",
-      "order": 1
+      "glycam_atom_2": "3_0GB_C6"
     },
     {
       "atom_id_1": 27,
       "atom_id_2": 34,
       "glycam_atom_1": "3_0GB_C5",
-      "glycam_atom_2": "3_0GB_C4",
-      "order": 1
+      "glycam_atom_2": "3_0GB_C4"
     },
     {
       "atom_id_1": 29,
       "atom_id_2": 32,
       "glycam_atom_1": "3_0GB_C6",
-      "glycam_atom_2": "3_0GB_O6",
-      "order": 1
+      "glycam_atom_2": "3_0GB_O6"
     },
     {
       "atom_id_1": 34,
       "atom_id_2": 36,
       "glycam_atom_1": "3_0GB_C4",
-      "glycam_atom_2": "3_0GB_O4",
-      "order": 1
+      "glycam_atom_2": "3_0GB_O4"
     },
     {
       "atom_id_1": 34,
       "atom_id_2": 38,
       "glycam_atom_1": "3_0GB_C4",
-      "glycam_atom_2": "3_0GB_C3",
-      "order": 1
+      "glycam_atom_2": "3_0GB_C3"
     },
     {
       "atom_id_1": 38,
       "atom_id_2": 40,
       "glycam_atom_1": "3_0GB_C3",
-      "glycam_atom_2": "3_0GB_O3",
-      "order": 1
+      "glycam_atom_2": "3_0GB_O3"
     },
     {
       "atom_id_1": 38,
       "atom_id_2": 42,
       "glycam_atom_1": "3_0GB_C3",
-      "glycam_atom_2": "3_0GB_C2",
-      "order": 1
+      "glycam_atom_2": "3_0GB_C2"
     },
     {
       "atom_id_1": 42,
       "atom_id_2": 44,
       "glycam_atom_1": "3_0GB_C2",
-      "glycam_atom_2": "3_0GB_O2",
-      "order": 1
+      "glycam_atom_2": "3_0GB_O2"
     },
     {
       "atom_id_1": 1,
       "atom_id_2": 2,
       "glycam_atom_1": "1_ROH_HO1",
-      "glycam_atom_2": "1_ROH_O1",
-      "order": 1
+      "glycam_atom_2": "1_ROH_O1"
     },
     {
       "atom_id_1": 3,
       "atom_id_2": 4,
       "glycam_atom_1": "2_4GB_C1",
-      "glycam_atom_2": "2_4GB_H1",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H1"
     },
     {
       "atom_id_1": 6,
       "atom_id_2": 7,
       "glycam_atom_1": "2_4GB_C5",
-      "glycam_atom_2": "2_4GB_H5",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H5"
     },
     {
       "atom_id_1": 8,
       "atom_id_2": 9,
       "glycam_atom_1": "2_4GB_C6",
-      "glycam_atom_2": "2_4GB_H62",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H62"
     },
     {
       "atom_id_1": 8,
       "atom_id_2": 10,
       "glycam_atom_1": "2_4GB_C6",
-      "glycam_atom_2": "2_4GB_H61",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H61"
     },
     {
       "atom_id_1": 11,
       "atom_id_2": 12,
       "glycam_atom_1": "2_4GB_O6",
-      "glycam_atom_2": "2_4GB_H6O",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H6O"
     },
     {
       "atom_id_1": 13,
       "atom_id_2": 14,
       "glycam_atom_1": "2_4GB_C4",
-      "glycam_atom_2": "2_4GB_H4",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H4"
     },
     {
       "atom_id_1": 15,
       "atom_id_2": 16,
       "glycam_atom_1": "2_4GB_C3",
-      "glycam_atom_2": "2_4GB_H3",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H3"
     },
     {
       "atom_id_1": 17,
       "atom_id_2": 18,
       "glycam_atom_1": "2_4GB_O3",
-      "glycam_atom_2": "2_4GB_H3O",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H3O"
     },
     {
       "atom_id_1": 19,
       "atom_id_2": 20,
       "glycam_atom_1": "2_4GB_C2",
-      "glycam_atom_2": "2_4GB_H2",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H2"
     },
     {
       "atom_id_1": 21,
       "atom_id_2": 22,
       "glycam_atom_1": "2_4GB_O2",
-      "glycam_atom_2": "2_4GB_H2O",
-      "order": 1
+      "glycam_atom_2": "2_4GB_H2O"
     },
     {
       "atom_id_1": 24,
       "atom_id_2": 25,
       "glycam_atom_1": "3_0GB_C1",
-      "glycam_atom_2": "3_0GB_H1",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H1"
     },
     {
       "atom_id_1": 27,
       "atom_id_2": 28,
       "glycam_atom_1": "3_0GB_C5",
-      "glycam_atom_2": "3_0GB_H5",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H5"
     },
     {
       "atom_id_1": 29,
       "atom_id_2": 30,
       "glycam_atom_1": "3_0GB_C6",
-      "glycam_atom_2": "3_0GB_H62",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H62"
     },
     {
       "atom_id_1": 29,
       "atom_id_2": 31,
       "glycam_atom_1": "3_0GB_C6",
-      "glycam_atom_2": "3_0GB_H61",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H61"
     },
     {
       "atom_id_1": 32,
       "atom_id_2": 33,
       "glycam_atom_1": "3_0GB_O6",
-      "glycam_atom_2": "3_0GB_H6O",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H6O"
     },
     {
       "atom_id_1": 34,
       "atom_id_2": 35,
       "glycam_atom_1": "3_0GB_C4",
-      "glycam_atom_2": "3_0GB_H4",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H4"
     },
     {
       "atom_id_1": 36,
       "atom_id_2": 37,
       "glycam_atom_1": "3_0GB_O4",
-      "glycam_atom_2": "3_0GB_H4O",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H4O"
     },
     {
       "atom_id_1": 38,
       "atom_id_2": 39,
       "glycam_atom_1": "3_0GB_C3",
-      "glycam_atom_2": "3_0GB_H3",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H3"
     },
     {
       "atom_id_1": 40,
       "atom_id_2": 41,
       "glycam_atom_1": "3_0GB_O3",
-      "glycam_atom_2": "3_0GB_H3O",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H3O"
     },
     {
       "atom_id_1": 42,
       "atom_id_2": 43,
       "glycam_atom_1": "3_0GB_C2",
-      "glycam_atom_2": "3_0GB_H2",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H2"
     },
     {
       "atom_id_1": 44,
       "atom_id_2": 45,
       "glycam_atom_1": "3_0GB_O2",
-      "glycam_atom_2": "3_0GB_H2O",
-      "order": 1
+      "glycam_atom_2": "3_0GB_H2O"
     }
   ],
   "bonding_matrix": {
